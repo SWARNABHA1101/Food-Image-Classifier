@@ -5,3 +5,7 @@ Goal: Building a machine learning model that can distinguish between food and no
 
 1)In this model I have used Tensorflow, Keras, and
 pretrained MobileNetV2 CNN to make our predictions.
+
+2)Firstly, uploaded the dataset into Kaggle then imported
+that into google collab, and then unzipped it and
+performed the task.
