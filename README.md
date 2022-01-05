@@ -13,7 +13,7 @@ performed the task.
 Input Image→Feature Extraction→Classification→
 Output.
 
-3) To use a pre-trained model like VGG-16 without having
+3)To use a pre-trained model like VGG-16 without having
 to master the skills necessary to tune and train those
 models which have been already trained with lots of
 images as we can directly use the weights and architecture
