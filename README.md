@@ -37,6 +37,6 @@ dataset by using sklearn train_test_split() function.
 
 7)Building Machine Learning Model
 Constraints while building the model
--Errors can be very costly
--Low latency
--Probability of each class of data set is needed
+-Errors can be very costly.
+-Low latency.
+-Probability of each class of data set is needed.
