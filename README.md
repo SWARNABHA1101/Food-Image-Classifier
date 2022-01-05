@@ -26,7 +26,7 @@ model to our specific problem statement.
 the performance of the classifier. We are interested in how well
 the classifier generalizes its recognition capability to unseen data.
 
-5) The main aim of the cross-validation set is to check how
+5)The main aim of the cross-validation set is to check how
 well the model recognizes the pattern on the unseen data in the
 training phase itself ,if it has any problems like “overfitting” and
 “underfitting”.
