@@ -21,3 +21,7 @@ obtained and apply the learning on our problem
 statement. This method is also known as transfer
 learning. We “transfer the learning” of the pre-trained
 model to our specific problem statement.
+
+4)The main reason for splitting the dataset — to evaluate
+the performance of the classifier. We are interested in how well
+the classifier generalizes its recognition capability to unseen data.
