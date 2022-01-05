@@ -35,8 +35,8 @@ training phase itself ,if it has any problems like “overfitting” and
 into Cross-validation dataset , and remaining 20% into Test
 dataset by using sklearn train_test_split() function.
 
-7)Building Machine Learning Model.
-Constraints while building the model
+7)Building Machine Learning Model
+Constraints while building the model.
 -Errors can be very costly.
 -Low latency.
 -Probability of each class of data set is needed.
