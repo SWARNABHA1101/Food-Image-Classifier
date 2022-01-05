@@ -30,3 +30,7 @@ the classifier generalizes its recognition capability to unseen data.
 well the model recognizes the pattern on the unseen data in the
 training phase itself ,if it has any problems like “overfitting” and
 “underfitting”.
+
+6)So,finally our dataset is divided into 70% into Train dataset,10%
+into Cross-validation dataset , and remaining 20% into Test
+dataset by using sklearn train_test_split() function.
