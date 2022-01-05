@@ -35,9 +35,15 @@ training phase itself ,if it has any problems like “overfitting” and
 into Cross-validation dataset , and remaining 20% into Test
 dataset by using sklearn train_test_split() function.
 
-7)**Building Machine Learning Model constraints while building the model.**
--Errors can be very costly.
--Low latency.
--Probability of each class of data set is needed.
+7)**Building Machine Learning Model <br/>Constraints while building the model** <br/>
+-Errors can be very costly <br/>
+-Low latency <br/>
+-Probability of each class of data set is needed <br/>
 
-8)
+8)**Key Performance Indicators(KPI):**<br/>
+    1)[Accuracy]( https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)<br/>
+    2)[Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html) <br/>
+    3)[Log Loss](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html) <br/>
+    
+    
+    
