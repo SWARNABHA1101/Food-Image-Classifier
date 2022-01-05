@@ -9,3 +9,6 @@ pretrained MobileNetV2 CNN to make our predictions.
 2)Firstly, uploaded the dataset into Kaggle then imported
 that into google collab, and then unzipped it and
 performed the task.
+
+Input Image→Feature Extraction→Classification→
+Output.
