@@ -12,3 +12,12 @@ performed the task.
 
 Input Image→Feature Extraction→Classification→
 Output.
+
+3) To use a pre-trained model like VGG-16 without having
+to master the skills necessary to tune and train those
+models which have been already trained with lots of
+images as we can directly use the weights and architecture
+obtained and apply the learning on our problem
+statement. This method is also known as transfer
+learning. We “transfer the learning” of the pre-trained
+model to our specific problem statement.
